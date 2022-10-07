@@ -1,0 +1,5 @@
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/obj/Debug/net6.0/MADNetworking.AWS.csproj.AssemblyReference.cache
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/obj/Debug/net6.0/MADNetworking.AWS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/obj/Debug/net6.0/MADNetworking.AWS.AssemblyInfoInputs.cache
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/obj/Debug/net6.0/MADNetworking.AWS.AssemblyInfo.cs
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/obj/Debug/net6.0/MADNetworking.AWS.csproj.CoreCompileInputs.cache

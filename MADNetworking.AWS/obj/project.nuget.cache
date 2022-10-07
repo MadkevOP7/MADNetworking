@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wKyLLWJ9EGFdyQKteRNfnSKM5rEroGIoUFI1Ag04P0sqUYwNmypiKXTPqmI04wPSEjQ5oNRr9pw/nZ/ZnhEhg==",
+  "success": true,
+  "projectFilePath": "/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/MADNetworking.AWS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevin/.nuget/packages/amazon.lambda.apigatewayevents/2.5.0/amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.0/amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/awssdk.apigatewaymanagementapi/3.7.0.189/awssdk.apigatewaymanagementapi.3.7.0.189.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/awssdk.core/3.7.12.17/awssdk.core.3.7.12.17.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/awssdk.dynamodbv2/3.7.3.64/awssdk.dynamodbv2.3.7.3.64.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.9/microsoft.netcore.app.runtime.linux-x64.6.0.9.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.9/microsoft.aspnetcore.app.runtime.linux-x64.6.0.9.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.9/microsoft.netcore.app.crossgen2.osx-arm64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

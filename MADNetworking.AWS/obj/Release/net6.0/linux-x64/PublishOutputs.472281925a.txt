@@ -1,0 +1,11 @@
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/MADNetworking.AWS.deps.json
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/MADNetworking.AWS.runtimeconfig.json
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/MADNetworking.AWS.pdb
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/AWSSDK.ApiGatewayManagementApi.dll
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/AWSSDK.Core.dll
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/AWSSDK.DynamoDBv2.dll
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/bin/Release/net6.0/publish/MADNetworking.AWS.dll

@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/MADNetworking.AWS.csproj": {}
+  },
+  "projects": {
+    "/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/MADNetworking.AWS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/MADNetworking.AWS.csproj",
+        "projectName": "MADNetworking.AWS",
+        "projectPath": "/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/MADNetworking.AWS.csproj",
+        "packagesPath": "/Users/kevin/.nuget/packages/",
+        "outputPath": "/Users/kevin/Desktop/MADNetworking_AWS/MADNetworking.AWS/MADNetworking.AWS/src/MADNetworking.AWS/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kevin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.ApiGatewayManagementApi": {
+              "target": "Package",
+              "version": "[3.7.0.189, )"
+            },
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.3.64, )"
+            },
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[6.0.9, 6.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.osx-arm64",
+              "version": "[6.0.9, 6.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[6.0.9, 6.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
