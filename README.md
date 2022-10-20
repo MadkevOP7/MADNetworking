@@ -5,7 +5,7 @@ Unity networking library built on AWS lambda, Dynamodb and APIGateway websocket
 - .Net 6.x
 - Unity
 
-##AWS Backend
+## AWS Backend
 [AWS Code](https://github.com/MadkevOP7/MADNetworking/tree/main/MADNetworking.AWS)
 Contains functions responsible for communicating with DynamoDB, AWS Lambda and APIGateway as example
 
