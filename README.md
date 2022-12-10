@@ -1,5 +1,5 @@
 # MADNetworking for Unity
-Unity networking library built on AWS lambda, Dynamodb and APIGateway websocket
+Unity networking library built on AWS lambda, Dynamodb and APIGateway websocket, written by Kevin Yang (MADKEV Studio)
 
 ## Dependencies
 - .Net 6.x
